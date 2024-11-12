@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [BaSyx Security Plugin Benutzerdokumentation](README.md)
