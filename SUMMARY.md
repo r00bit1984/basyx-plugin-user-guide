@@ -7,4 +7,5 @@
 * [Regeln anlegen](anleitungen/regeln-anlegen.md)
 * [Filtern](anleitungen/filtern.md)
 * [Löschen und Bearbeiten](anleitungen/loschen-und-bearbeiten.md)
+* [RuleID Short](anleitungen/ruleid-short.md)
 * [API Call Logs](anleitungen/api-call-logs.md)
